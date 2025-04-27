@@ -1,0 +1,21 @@
+{
+    "options": [
+      { "option_id": 1, "name": "Color" },
+      { "option_id": 2, "name": "Storage" },
+      { "option_id": 3, "name": "Year Manufactured" },
+      { "option_id": 4, "name": "OS Version" },
+      { "option_id": 5, "name": "Condition" },
+      { "option_id": 6, "name": "IMEI" }
+    ],
+    "products": [],
+    "optionValues": [],
+    "variants": [],
+    "variantOptionValues": [],
+    "initialCounters": {
+      "nextProductId": 1,
+      "nextOptionId": 7,
+      "nextOptionValueId": 1,
+      "nextVariantId": 1
+    }
+  }
+  

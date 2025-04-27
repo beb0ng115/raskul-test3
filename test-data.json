@@ -1,0 +1,36 @@
+{
+    "product": {
+      "name": "iPhone 11 Pro Max - Used",
+      "model_id": 55,
+      "category_id": 10,
+      "description": "Slightly used iPhone 11 Pro Max in great condition.",
+      "slug": "iphone-11-pro-max-used-g1"
+    },
+    "variants": [
+      {
+        "sku": "IP11PM-GRN-256-G-01",
+        "price": 650.00,
+        "imei": "123456789012345",
+        "options": [
+          { "option_name": "Color", "value": "Midnight Green" },
+          { "option_name": "Storage", "value": "256GB" },
+          { "option_name": "Condition", "value": "Good" },
+          { "option_name": "Year Manufactured", "value": "2019" },
+          { "option_name": "OS Version", "value": "iOS 15.5" }
+        ]
+      },
+      {
+        "sku": "IP11PM-SLV-512-E-02",
+        "price": 780.50,
+        "imei": "987654321098765",
+        "options": [
+          { "option_name": "Color", "value": "Silver" },
+          { "option_name": "Storage", "value": "512GB" },
+          { "option_name": "Condition", "value": "Excellent" },
+          { "option_name": "Year Manufactured", "value": "2020" },
+          { "option_name": "OS Version", "value": "iOS 16.1" }
+        ]
+      }
+    ]
+  }
+  
